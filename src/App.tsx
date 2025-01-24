@@ -233,7 +233,7 @@ function Dashboard() {
                   <BookMarked className="w-6 h-6 text-purple-400 mr-3" />
                   <div>
                     <h3 className="text-lg font-semibold text-white">Smart Contract Development</h3>
-                    <p className="text-purple-200">Progress: 60%</p>
+                    <p className="text-pink-500">Progress: 60%</p>
                   </div>
                 </div>
                 <div className="w-24 h-2 bg-purple-900 rounded-full">
