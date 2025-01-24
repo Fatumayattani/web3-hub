@@ -26,9 +26,9 @@ function Home() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Course Tracks */}
-          <div className="bg-white/10 backdrop-blur-lg rounded-xl p-6 border border-purple-500/20">
+          <div className="bg-white/10 backdrop-blur-lg rounded-xl p-6 border border-brown-500/20">
             <div className="flex items-center mb-4">
-              <BookOpen className="w-8 h-8 text-purple-400" />
+              <BookOpen className="w-8 h-8 text-brown-400" />
               <h2 className="text-xl font-semibold text-white ml-3">Learning Tracks</h2>
             </div>
             <p className="text-purple-200">
@@ -70,7 +70,7 @@ function Home() {
           </div>
 
           {/* Certifications */}
-          <div className="bg-white/10 backdrop-blur-lg rounded-xl p-6 border border-purple-500/20">
+            <div className="bg-white/10 backdrop-blur-lg rounded-xl p-6 border border-purple-500/20">
             <div className="flex items-center mb-4">
               <Certificate className="w-8 h-8 text-purple-400" />
               <h2 className="text-xl font-semibold text-white ml-3">Get Certified</h2>
@@ -78,7 +78,7 @@ function Home() {
             <p className="text-purple-200">
               Earn verifiable on-chain certifications
             </p>
-          </div>
+            </div>
 
           {/* Progress Tracking */}
           <div className="bg-white/10 backdrop-blur-lg rounded-xl p-6 border border-purple-500/20">
